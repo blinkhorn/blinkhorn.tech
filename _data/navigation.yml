@@ -1,0 +1,10 @@
+main:
+  - title: "About"
+    url: /about/
+    description: "Learn about me"
+  - title: "Blog"
+    url: /blog/
+    description: "Read blog posts by me"
+  - title: "Contact"
+    url: /Contact/
+    description: "Contact me"
