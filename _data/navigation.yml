@@ -6,5 +6,5 @@ main:
     url: /blog/
     description: "Read blog posts by me"
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
     description: "Contact me"
