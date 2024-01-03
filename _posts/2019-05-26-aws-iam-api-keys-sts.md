@@ -13,7 +13,7 @@ tags:
   - "sts"
 ---
 
-I gave an overview of IAM (Identity & Access Management) in [my last post](https://blinkhorn.tech/blog/aws-account-services/), but I left two concepts out: IAM API Keys and STS (Security Token Service). This brief post will be devoted to IAM API Keys and STS.
+I gave an overview of IAM (Identity & Access Management) in [my last post](https://blinkhorn.net/blog/aws-account-services/), but I left two concepts out: IAM API Keys and STS (Security Token Service). This brief post will be devoted to IAM API Keys and STS.
 
 * * *
 

@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2023-10-31"
+date: "2022-10-31"
 coverImage: "../assets/images/blinkhorn_profile.jpg"
 permalink: /about/
 ---

@@ -49,7 +49,7 @@ feature_row:
   - image_path: assets/images/discog-ify.png
     alt: 'Discog-ify'
     title: 'Discog-ify'
-    excerpt: "Discog-ify is a frontend app that will access Discogs and Spotify's APIs to generate user record label playlist"
+    excerpt: "Discog-ify is a front-end app that will access Discogs and Spotify's APIs to generate user record label playlist"
     url: 'https://blinkhorn.github.io/discog-ify/'
     btn_label: 'Visit Discog-ify'
     btn_class: 'btn--primary'

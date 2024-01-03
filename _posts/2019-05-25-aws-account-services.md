@@ -15,7 +15,7 @@ tags:
   - "iam-policies"
 ---
 
-In [my last post](https://blinkhorn.tech/blog/aws-certification-why-and-how/), I described why and how I would prepare for my AWS Certified Developer - Associate level exam. I've made it through almost half of that Linux Academy course's material and I'm impressed by how in-depth the instructor goes. I've learned everything from AWS fundamentals to Elastic Container Service (ECS) so far, but as the title to this post suggests, I'm going to recap what I've learned about AWS Account & Services.
+In [my last post](https://blinkhorn.net/blog/aws-certification-why-and-how/), I described why and how I would prepare for my AWS Certified Developer - Associate level exam. I've made it through almost half of that Linux Academy course's material and I'm impressed by how in-depth the instructor goes. I've learned everything from AWS fundamentals to Elastic Container Service (ECS) so far, but as the title to this post suggests, I'm going to recap what I've learned about AWS Account & Services.
 
 * * *
 

@@ -25,7 +25,7 @@ tags:
   - "techno"
 ---
 
-Over the last month, I have continued poking around the [Spring Petclinic](http://blinkhorn.tech/blog/java/spring-journey-intro/) application, using it as a model for my own project, [Beat Browser](https://github.com/blinkhorn/beat-browser). I borrowed a lot for Spring Petclinic's model classes, particularly the BaseEntity and NamedEntity classes. I also used the relationship between the Owner and the Pet classes as examples for the relationships between several of my several of my subclasses in Beat Browser, particularly the Label, Artist, Release, and Track classes.
+Over the last month, I have continued poking around the [Spring Petclinic](https://blinkhorn.net/blog/java/spring-journey-intro/) application, using it as a model for my own project, [Beat Browser](https://github.com/blinkhorn/beat-browser). I borrowed a lot for Spring Petclinic's model classes, particularly the BaseEntity and NamedEntity classes. I also used the relationship between the Owner and the Pet classes as examples for the relationships between several of my several of my subclasses in Beat Browser, particularly the Label, Artist, Release, and Track classes.
 
 * * * 
 
