@@ -1,5 +1,5 @@
 ---
-title: "New Full-Stack Serverless App: Most Supported Record Labels"
+title: "New Full Stack Serverless App: Most Supported Record Labels"
 date: "2022-01-09"
 categories: 
   - "angular"
@@ -8,7 +8,7 @@ categories:
   - "js"
 ---
 
-To give some context for this personal learning project I recently started, over the last year, I've learned a lot about AWS and coding Python Lambda functions in addition honing my production-grade Angular skills. Last month, I even became AWS Solutions Architect - Associate certified. So over winter break, I started thinking about building a full-stack serverless application for a fun learning project.
+To give some context for this personal learning project I recently started, over the last year, I've learned a lot about AWS and coding Python Lambda functions in addition honing my production-grade Angular skills. Last month, I even became AWS Solutions Architect - Associate certified. So over winter break, I started thinking about building a full stack serverless application for a fun learning project.
 
 * * *
 

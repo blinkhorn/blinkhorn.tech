@@ -26,7 +26,7 @@ Soundtrack: Blinkhorn x Carrier Signal, “Divide”
 * * *
 
 
-After a few coding sessions on that dock, I had a working full-stack serverless companion application that leveraged AWS Lambda (Python and Node.js), API Gateway, Amazon S3, DynamoDB, Amazon Cognito, and a Vue.js UI, all tied together by AWS Amplify.
+After a few coding sessions on that dock, I had a working full stack serverless companion application that leveraged AWS Lambda (Python and Node.js), API Gateway, Amazon S3, DynamoDB, Amazon Cognito, and a Vue.js UI, all tied together by AWS Amplify.
 
 The application looked sleek to my eyes, so I bought a domain name for it on Route 53, which remains the only part of the application I have had to pay anything for on AWS (the rest has stayed in the free tier, +/- $0.02 a month).
 

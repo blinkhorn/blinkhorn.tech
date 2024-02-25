@@ -7,22 +7,22 @@ header:
   overlay_color: '#007aff'
   overlay_filter: '0.5'
 excerpt:
-  'AWS certified full-stack software engineer and team lead who successfully delivers software solutions'
+  'AWS certified full stack software engineer and team lead who successfully delivers software solutions'
 intro:
   - excerpt: "Here is a selection of public facing web applications I've worked on"
 feature_row:
   - image_path: assets/images/bmr.png
     alt: 'Record Label App'
     title: 'Record Label App'
-    excerpt: "Black Magic Recordings' full-stack serverless companion app has a Vue UI that uses AWS Lambda (Python and Node.js) and DynamoDB"
+    excerpt: "Black Magic Recordings' full stack serverless companion app has a Vue UI that uses AWS Lambda (Python and Node.js) and DynamoDB"
     url: './aws/blog/js/music/vue/2023/07/25/black-magic-recordings-companion-web-application.html'
     btn_label: 'Read More'
     btn_class: 'btn--primary'
   - image_path: assets/images/most_supported_record_labels.png
     alt: 'Ranking App'
     title: 'Ranking App'
-    excerpt: 'A full-stack serverless app (Angular 13 in Nx, Python Lambda REST API, DynamoDB) that ranks record labels you search for'
-    url: './angular/aws/blog/js/2022/01/09/new-full-stack-serverless-app-most-supported-record-labels.html'
+    excerpt: 'A full stack serverless app (Angular 13 in Nx, Python Lambda REST API, DynamoDB) that ranks record labels you search for'
+    url: './angular/aws/blog/js/2022/01/09/new-full stack-serverless-app-most-supported-record-labels.html'
     btn_label: 'Read More'
     btn_class: 'btn--primary'
   - image_path: assets/images/member-pages.png
