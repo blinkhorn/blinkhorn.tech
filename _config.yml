@@ -21,8 +21,7 @@
 title: Blinkhorn
 email: contact.blinkhorn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Patrick Blinkhorn | AWS certified full stack software engineer and team 
-  lead who successfully delivers software solutions
+  Patrick Blinkhorn | AWS certified lead software engineer who works across the tech stack to successfully deliver software solutions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blinkhorn.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  blinkhorn
@@ -36,7 +35,7 @@ include: ["_pages"]
 author:
   name: "Patrick Blinkhorn"
   avatar: "/assets/images/blinkhorn_profile.jpg"
-  bio: "Patrick is an AWS certified full stack software engineer and team lead who successfully delivers software solutions."
+  bio: "Patrick is an AWS certified lead software engineer who works across the tech stack to successfully deliver software solutions."
   location: "Silver Spring, MD"
   links:
     - label: "LinkedIn"
