@@ -22,7 +22,7 @@ feature_row:
     alt: 'Ranking App'
     title: 'Ranking App'
     excerpt: 'A full-stack serverless app (Angular 13 in Nx, Python Lambda REST API, DynamoDB) that ranks record labels you search for'
-    url: './angular/aws/blog/js/2022/01/09/new-full stack-serverless-app-most-supported-record-labels.html'
+    url: './angular/aws/blog/js/2022/01/09/new-full-stack-serverless-app-most-supported-record-labels.html'
     btn_label: 'Read More'
     btn_class: 'btn--primary'
   - image_path: assets/images/member-pages.png
